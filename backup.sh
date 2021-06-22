@@ -1,2 +1,2 @@
 
-This is a test lime to test github sunc.
+This is a test lime to test github sync.
